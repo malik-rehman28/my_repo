@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # FlyRank Content Refresh Intelligence: Predictive Triage Pipeline for High-Impact SEO Optimization
 
 - **Author:** Malik Abdul Rehman
