@@ -1,2 +1,1 @@
-[https://malik-rehman28.github.io/my_repo/work/notebooks/]
-(https://malik-rehman28.github.io/my_repo/work/notebooks/)
+https://malik-rehman28.github.io/my_repo/work/notebooks/
