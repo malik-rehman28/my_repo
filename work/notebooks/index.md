@@ -80,6 +80,7 @@ The model was validated using a time-aware holdout split to emulate production c
 
 The Random Forest model demonstrates substantial discrimination gains across every core dimension. Notably, precision across the top 10% of ranked candidates rose from 0.45 to 0.78, ensuring that editors focusing on the daily top queue encounter actionable underperformance nearly 80% of the time.
 
+<img src="https://github.com/malik-rehman28/my_repo/blob/main/work/notebooks/chart.png?raw=true" alt="Validation Performance" style="max-width: 100%;">
 ---
 
 ## 6. Interpretation
